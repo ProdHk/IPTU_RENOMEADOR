@@ -1,0 +1,16 @@
+{
+  "name": "iptu_rename",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mammoth": "^1.8.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
